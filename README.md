@@ -1,7 +1,7 @@
 # Bootstrap 3 support for Internet Explorer 10 in Windows 8 and Windows Phone 8
 
 ## Installation
-```bower install jan-drda/ie10-viewport-bug-workaround --save```
+```bower install ie10-viewport-bug-workaround --save```
 
 ## File structure
 There are both compressed (with min suffix)and original files.
