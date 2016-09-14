@@ -11,7 +11,9 @@ CSS file should be after Bootstrap.css file and JS file after Bootstrap.js at yo
 
 ## Hosting at MaxCDN
 For those who prefer inserting files from MaxCDN, the links are:
+
 https://maxcdn.bootstrapcdn.com/css/ie10-viewport-bug-workaround.css
+
 https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js
 
 ## Bugs
