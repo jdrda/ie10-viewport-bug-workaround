@@ -1,5 +1,5 @@
 {
-  "name": "jan-drda/ie10-viewport-bug-workaround",
+  "name": "ie10-viewport-bug-workaround",
   "description": "Bootstrap 3 support for Internet Explorer 10 in Windows 8 and Windows Phone 8",
   "keywords": [
     "bootstrap",
@@ -7,8 +7,8 @@
     "bug",
     "windows 8",
     "windows phone 8",
-    "internet explorer 8",
-    "template"
+    "internet explorer 10",
+    "bootstrap 3"
   ],
   "license": "https://github.com/twbs/bootstrap/blob/master/LICENSE",
   "homepage": "http://getbootstrap.com/getting-started/#support-ie10-width",
