@@ -10,8 +10,20 @@
     "internet explorer 10",
     "bootstrap 3"
   ],
+  "main": [
+    "dist/ie10-viewport-bug-workaround.css",
+    "dist/ie10-viewport-bug-workaround.js"
+  ],
+  "moduleType": "globals",
   "license": "https://github.com/twbs/bootstrap/blob/master/LICENSE",
+  "authors": [
+    "Jan Drda <jdrda@outlook.com> (http://jdrda.tk)"
+  ],
   "homepage": "http://getbootstrap.com/getting-started/#support-ie10-width",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jdrda/ie10-viewport-bug-workaround.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
