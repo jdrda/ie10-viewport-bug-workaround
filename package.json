@@ -1,4 +1,5 @@
 {
+  "name": "ie10-viewport-bug-workaround",
   "private": true,
   "scripts": {
     "prod": "gulp --production",
