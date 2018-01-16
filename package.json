@@ -1,5 +1,6 @@
 {
   "private": true,
+  "version": "1.0.4",
   "scripts": {
     "prod": "gulp --production",
     "dev": "gulp watch"
