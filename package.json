@@ -1,4 +1,5 @@
 {
+  "name": "ie10-viewport-bug-workaround",
   "private": true,
   "version": "1.0.4",
   "scripts": {
